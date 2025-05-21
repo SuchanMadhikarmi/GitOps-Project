@@ -18,7 +18,7 @@ Manages AWS infrastructure provisioning using **Terraform**.
 ## Application Repository
 Handles the development, containerization, and deployment of a Java-based web application using **Maven**, **Docker**, and **Helm**.
 
-🔗 [Application Repository](https://github.com/SuchanMadhikarmi/iac-vprofile)
+🔗 [Application Repository](https://github.com/SuchanMadhikarmi/vprofile-action)
 
 
 The project is adapted from the **Udemy course "GitOps with AWS EKS and Terraform"**, extended with features like custom Helm charts, SonarCloud integration for code quality, and a secure CI/CD pipeline. It showcases best practices such as automated testing, image scanning, and staged promotion from staging to production environments, providing a real-world example of a scalable and secure deployment pipeline.
